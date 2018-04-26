@@ -7,4 +7,3 @@ node_modules
 .tmp
 lib
 gulpfile.babel.js
-.vscode
