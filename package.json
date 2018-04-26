@@ -8,7 +8,7 @@
     "dev": "nodemon ./src/index.js --exec babel-node",
     "dist": "gulp dist"
   },
-  "author": "colorpeach@live.cn",
+  "author": "15957136119@163.com",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
