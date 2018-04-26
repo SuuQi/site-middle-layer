@@ -19,7 +19,6 @@
     "nodemon": "^1.17.3"
   },
   "dependencies": {
-    "axios": "^0.18.0",
     "ejs": "^2.5.9",
     "koa": "^2.5.0",
     "koa-better-body": "^3.0.4",
@@ -28,8 +27,8 @@
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
-    "lodash": "^4.17.10",
     "mongoose": "^5.0.16",
-    "qs": "^6.5.1"
+    "qs": "^6.5.1",
+    "request": "^2.85.0"
   }
 }
