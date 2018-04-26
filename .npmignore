@@ -1,0 +1,10 @@
+.eslintrc
+.babelrc
+test
+example
+config
+node_modules
+.tmp
+lib
+gulpfile.babel.js
+.vscode

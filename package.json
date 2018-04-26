@@ -1,0 +1,35 @@
+{
+  "name": "@suuqi/middle-layer",
+  "version": "1.0.0",
+  "description": "前后端分离中间层",
+  "main": "dist/index.js",
+  "repository": "ssh://git@github.com:SuuQi/middle-layer.git",
+  "scripts": {
+    "dev": "nodemon ./src/index.js --exec babel-node",
+    "dist": "gulp dist"
+  },
+  "author": "colorpeach@live.cn",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ejs": "^2.5.9",
+    "koa": "^2.5.0",
+    "koa-better-body": "^3.0.4",
+    "koa-compose": "^4.0.0",
+    "koa-compress": "^3.0.0",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.0.16",
+    "qs": "^6.5.1"
+  }
+}
