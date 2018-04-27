@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "前后端分离中间层",
   "main": "dist/index.js",
-  "repository": "ssh://git@github.com:SuuQi/middle-layer.git",
+  "repository": "ssh://git@github.com:SuuQi/site-middle-layer.git",
   "scripts": {
     "dev": "nodemon ./example/server.js --exec babel-node",
     "dist": "gulp dist"
